@@ -63,7 +63,7 @@ img {
   margin-bottom: 100px;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 20rem) {
   .cards_item {
     width: 50%;
   }
