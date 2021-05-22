@@ -27,7 +27,7 @@ body {
 }
 
 .main{
-  max-width: 1024px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -63,17 +63,17 @@ img {
   margin-bottom: 100px;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 40rem) {
   .cards_item {
     width: 50%;
   }
 }
-/*
+
 @media (min-width: 56rem) {
   .cards_item {
     width: 33.3333%;
   }
-}*/
+}
 
 .card {
   background-color: white;
