@@ -113,6 +113,8 @@ img {
 
 .number{
   text-align: center;
-  font-size: 30rem;
+  font-size: 13rem;
   margin: 0 auto;
+  line-height: 300px;
+  padding-top: 300px;
 }
